@@ -1,0 +1,26 @@
+[
+    {
+        "family_name": "PRIO Package",
+        "family_code": "6a838c0b-8f01-42e4-847c-2c0715ca248d",
+        "is_enterprise": null,
+        "variant_name": "PRIO Package",
+        "option_name": "MPD Lifestyle 24m",
+        "order": 12
+    },
+    {
+        "family_name": "PRIO Package",
+        "family_code": "6a838c0b-8f01-42e4-847c-2c0715ca248d",
+        "is_enterprise": null,
+        "variant_name": "PRIO Package",
+        "option_name": "Booster Data 10GB",
+        "order": 30
+    },
+    {
+        "family_name": "PRIO Package",
+        "family_code": "6a838c0b-8f01-42e4-847c-2c0715ca248d",
+        "is_enterprise": null,
+        "variant_name": "PRIO Package",
+        "option_name": "MPD Lifestyle 3m",
+        "order": 13
+    }
+]
